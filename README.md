@@ -1,0 +1,1 @@
+# fullstack_auth_module
